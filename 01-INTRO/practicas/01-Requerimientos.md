@@ -1,5 +1,5 @@
 # Practica Requerimientos
 
-Para esta practica pueden usar la plantilla que les dejo en el siguiente link --> [PLANTILLA](./1.-Reqierimientos.doc)
+Se realiza la practica mediante el cual se modifico los puntos sobresaliente del proceso para los requerimientos de un proyectos  --> [PLANTILLA](./01-Requerimiento-isactes.pdf)
 
-***¡Vámonos hasta el espacio y más allá Explorers!***
+***¡No matter what, you keep finding something to fith for!***
