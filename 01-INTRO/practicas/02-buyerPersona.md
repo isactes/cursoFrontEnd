@@ -1,5 +1,5 @@
 # Practica Buyer Persona
 
-Para esta practica pueden usar la plantilla que les dejo en el siguiente link --> [PLANTILLA](./2.-persona.pdf)
+Esta Practica se realizo mediante Figma puden ver una Buyer-Person   --> [PLANTILLA](./02-Buyer-Person.pdf)
 
 ***¡Vámonos hasta el espacio y más allá Explorers!***
